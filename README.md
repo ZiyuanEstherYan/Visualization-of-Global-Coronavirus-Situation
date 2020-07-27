@@ -1,5 +1,5 @@
 # Visualization of Global Coronavirus Situation
-Visualization of the global pandemic and an detailed visualization of the situation in the US. 
+Visualization of the global pandemic and detailed visualization of the situation in the US. 
 
 ### Tools: Tableau
 
