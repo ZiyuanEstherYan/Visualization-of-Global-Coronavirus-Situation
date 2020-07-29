@@ -38,35 +38,35 @@ The project contains two interactive dashboards in total, one for observations o
 ## Dashboard 1:  COVID-19 Cases in the U.S.
 This dashboard is composed of six views. The first two on the upper left are the billboards showing total numbers of confirmed cases and deaths. This allows the users to have a plain and straight impression of the current situation. And the two views that catch users’ eyes the most at the first glance would be the two maps at the center of the dashboard.
 
-![alt_text](images/pic1.PNG)
+![alt_text](images/pic1.PNG "Pic 1")
 
 The U.S. on the left is a tool created for users to easily click on states they are interested in and have an overall view of how the number of cases vary by states. The darkest blue lump, which is New York State, refers to a biggest number of confirmed cases, up until April 1. And the map on the right serves as a more detailed showcase which is connected to the U.S. map.
 
-![alt_text](images/pic2.PNG)
+![alt_text](images/pic2.PNG "Pic 2")
 
 For example, if users want to know details of a specific state in California, he or she could simply click California on the U.S. map and then the map beside it will jump to a bigger view of California with more detailed information. It is comparable by sight to tell which part of California is suffering the most confirmed cases.
 At the half bottom of the dashboard, users can search for exact numbers by using the table. The table is also shown in a color grid, which helps users easily identify states with more serious situations. Also, a line chart is displayed to show the number of confirmed cases and deaths growing by time. Note that the starting date of our chart is March 24, when the original data sourced started to deliver U.S. specific data.
 
-![alt_text](images/pic3.PNG)
+![alt_text](images/pic3.PNG "Pic 3")
 
 ## Dashboard 2: Worldwide Spread of COVID-19
 As it is extremely likely that users who care about COVID-19 will want to also have a look at global situations and do some research, a dashboard with more useful functions is created. 
 
-![alt_text](images/pic4.PNG)
+![alt_text](images/pic4.PNG "Pic 4")
 
 At the upper half part, a world map with different sizes and colors of circles as well as territory is presented. This time, users can not only check the total number of cases in each country, but also see how many cases per capita are there in each country. Taking the USA as an example, the white color all over it indicates that its number of cases per capita is higher than the global average and the total number has reached the top 1. Users can also select a specific date they are interested in.
 At the bottom half, to begin with is a similar grow trend chart. And on the right is a cross-country comparison chart with each country indicated by a color line. To not to mislead users, the starting point is set to be 1k, rather than 0 or 100. As it can be clearly seen that some countries like the USA and Italy are experiencing a steep growth curve while some countries like China and South Korea have become stable.
 
-![alt_text](images/pic5.PNG)
+![alt_text](images/pic5.PNG "Pic 5")
 
 ## Story
 Due to the importance of the growth rate of COVID-19 cases, we also built a story with a line of continents. Users can clearly see how COVID-19 cases develop among different countries in each continent. 
 
-![alt_text](images/pic6.PNG)
+![alt_text](images/pic6.PNG "Pic 6")
 
 First, a worldwide chart which is a mix of all countries that could be tracked is presented. By clicking at the dropdown menu on the upper right, users can manually select a specific continent. Or, they could follow the storyline at the top of the page.
 
-![alt_text](images/pic7.PNG)
+![alt_text](images/pic7.PNG "Pic 7")
 
 Then, following the story line, say, users now come to Europe. It is shown that almost all countries in Europe have a similar development trend of confirmed cases of COVID-19. This is also consistent with the fact that European countries are connected with each other closely. So, a probable projection will be that countries in Europe that just started to report confirmed cases will experience a similar path as other European countries.
 
