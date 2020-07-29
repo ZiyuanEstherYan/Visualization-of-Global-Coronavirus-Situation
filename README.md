@@ -54,3 +54,5 @@ Then, following the story line, say, users now come to Europe. It is shown that 
 
 ## Conclusion
 With the advent of data visualization tools in recent years, the potential for creating visualizations to drive the insight/understanding of this complex situation has greatly increased. We hope that these dashboards and story visualization can be helpful for individuals and decision makers alike, as COVID-19 continues to take its toll on the world. While many countries have taken a great sacrifice, others should use the mistakes/lessons learned from previous outbreaks to better prepare themselves, and there is no better way to drive this learning process than with data. 
+
+### (*See detailed report in the PDF files)
